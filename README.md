@@ -162,14 +162,32 @@ The project was completed using the following workflow:
 
 # 📁 Repository Structure
 
-```
 IndiaKart-ECommerce-Analytics/
 │
 ├── Dashboard-Screenshots/
-├── Power-BI/
-├── README.md
-└── Phase4_Dashboard_[Kartik_jaswal].pbix
-```
+│   ├── Revenue Overview.png
+│   ├── Category Performance.png
+│   ├── Customer Insights.png
+│   ├── Operation Dashboard.png
+│   ├── Inventory Alert.png
+│   └── README.md
+│
+├── PowerBI/
+│   ├── Phase4_Dashboard_[Kartik_jaswal].pbix
+│   └── README.md
+│
+├── Python/
+│   ├── IndiaKart_Phase1_DataCleaning_KartikJaswal.ipynb
+│   ├── IndiaKart_Phase2_EDA_KartikJaswal.ipynb
+│   ├── IndiaKart_Phase3_KPIs_KartikJaswal.ipynb
+│   └── README.md
+│
+├── SQL/
+│   ├── Phase3_KPI_Calculations.sql
+│   └── README.md
+│
+├── LICENSE
+└── README.md
 
 ---
 # 👨‍💻 About the Author
