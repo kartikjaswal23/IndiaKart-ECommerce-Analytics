@@ -41,3 +41,33 @@ The project transforms raw transactional data into interactive Power BI dashboar
 ## 📦 Inventory Alert
 
 ![Inventory Alert](Dashboard-Screenshots/Inventory%20Alert.png)
+
+---
+
+# 🛠️ Tools & Technologies
+
+- **Power BI** – Dashboard development and data visualization
+- **DAX** – KPI and calculated measure development
+- **Python (Pandas)** – Data cleaning and exploratory analysis
+- **SQL (MySQL)** – Data analysis and KPI queries
+- **Microsoft Excel** – Data validation and exploratory checks
+- **Power Query** – Data transformation and preparation
+
+---
+
+# 📂 Dataset Overview
+
+The project uses 8 interconnected datasets covering customers, orders, products, payments, returns, suppliers, and inventory.
+
+| Dataset | Records |
+|---|---:|
+| Customers | 10,000 |
+| Orders | 50,000 |
+| Order Items | 100,000 |
+| Products | 1,000 |
+| Payments | 50,000 |
+| Returns | 10,000 |
+| Inventory | 1,000 |
+| Suppliers | 200 |
+
+**Total records analyzed: 222,200**
