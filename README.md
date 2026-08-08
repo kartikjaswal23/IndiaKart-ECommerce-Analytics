@@ -71,3 +71,57 @@ The project uses 8 interconnected datasets covering customers, orders, products,
 | Suppliers | 200 |
 
 **Total records analyzed: 222,200**
+
+---
+
+# 🎯 Business Objectives
+
+This project was developed to answer key business questions such as:
+
+- Which product categories generate the highest revenue?
+- Which products contribute the most to sales?
+- Which customer segments drive the business?
+- How are customers distributed across different states?
+- What is the monthly revenue trend?
+- Which payment methods are most preferred?
+- What are the major reasons for product returns?
+- Which products require immediate inventory replenishment?
+- How is inventory distributed across warehouses?
+- What KPIs can help management make faster business decisions?
+
+---
+
+# 📈 Key Performance Indicators (KPIs)
+
+The dashboard tracks the following business KPIs:
+
+### Revenue Overview
+- Total GMV
+- Total Orders
+- Average Order Value (AOV)
+- Cancellation Rate
+
+### Category Performance
+- Category Revenue
+- Top Selling Products
+- Average Return Rate
+
+### Customer Insights
+- Total Customers
+- Active Customers
+- Top Customer Segment
+- New Customer Registrations
+
+### Operations Dashboard
+- Delivery Rate
+- Cancellation Rate
+- Overall Return Rate
+- Order Status Funnel
+- Payment Method Breakdown
+- Return Reason Analysis
+
+### Inventory Alert
+- Total Inventory Value
+- Low Stock Products
+- Out of Stock Products
+- Warehouse Distribution
