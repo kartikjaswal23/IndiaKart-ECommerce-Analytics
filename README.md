@@ -9,3 +9,11 @@
 IndiaKart E-Commerce Analytics is an end-to-end Business Intelligence project developed to analyze sales performance, customer behavior, operational efficiency, and inventory management.
 
 The project transforms raw transactional data into interactive Power BI dashboards, enabling business users to make data-driven decisions through meaningful KPIs and visualizations.
+
+---
+
+# 📊 Dashboard Preview
+
+## 📈 Revenue Overview
+
+![Revenue Overview](Dashboard-Screenshots/Revenue%20Overview.png)
