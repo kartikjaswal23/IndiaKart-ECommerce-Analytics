@@ -125,3 +125,20 @@ The dashboard tracks the following business KPIs:
 - Low Stock Products
 - Out of Stock Products
 - Warehouse Distribution
+
+  ---
+
+# 💡 Key Business Insights
+
+- Total GMV reached approximately **₹314.74 Cr** across 50,000 orders.
+- **Electronics** is the highest revenue-generating category.
+- **Regular customers** represent the largest customer segment.
+- **Uttar Pradesh** has the highest customer concentration.
+- Delivery rate stands at **65.00%**, while cancellation rate is **11.99%**.
+- **UPI** is the most preferred payment method.
+- Overall return rate is approximately **20.00%**.
+- **Size Issue, Changed Mind, and Damaged in Transit** are major return reasons.
+- Total inventory value is approximately **₹211.19 Cr**.
+- **76 products** are currently low stock and **2 products** are out of stock.
+
+---
