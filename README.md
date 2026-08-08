@@ -142,3 +142,43 @@ The dashboard tracks the following business KPIs:
 - **76 products** are currently low stock and **2 products** are out of stock.
 
 ---
+
+---
+
+# 🔄 Project Workflow
+
+The project was completed using the following workflow:
+
+1. Data Collection
+2. Data Cleaning using Python (Pandas)
+3. Exploratory Data Analysis (EDA)
+4. SQL Analysis & KPI Calculations
+5. Data Modeling in Power BI
+6. DAX Measure Development
+7. Dashboard Design & Visualization
+8. Business Insights & Reporting
+
+---
+
+# 📁 Repository Structure
+
+```
+IndiaKart-ECommerce-Analytics/
+│
+├── Dashboard-Screenshots/
+├── Power-BI/
+├── README.md
+└── Phase4_Dashboard_[Kartik_jaswal].pbix
+```
+
+---
+# 👨‍💻 About the Author
+
+**Kartik Jaswal**
+
+Aspiring **Data Analyst / Business Analyst** with experience in SQL, Python, Power BI, Excel, and Business Intelligence.
+
+### Connect with me
+
+- GitHub: https://github.com/kartikjaswal23
+- LinkedIn: *(www.linkedin.com/in/kartik-jaswal-b7952a168)*
