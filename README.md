@@ -160,8 +160,9 @@ The project was completed using the following workflow:
 
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
+```text
 IndiaKart-ECommerce-Analytics/
 │
 ├── Dashboard-Screenshots/
@@ -188,6 +189,7 @@ IndiaKart-ECommerce-Analytics/
 │
 ├── LICENSE
 └── README.md
+```
 
 ---
 # 👨‍💻 About the Author
