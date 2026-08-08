@@ -17,3 +17,27 @@ The project transforms raw transactional data into interactive Power BI dashboar
 ## 📈 Revenue Overview
 
 ![Revenue Overview](Dashboard-Screenshots/Revenue%20Overview.png)
+
+---
+
+## 📊 Category Performance
+
+![Category Performance](Dashboard-Screenshots/Category%20performance.png)
+
+---
+
+## 👥 Customer Insights
+
+![Customer Insights](Dashboard-Screenshots/Customer%20Insights.png)
+
+---
+
+## ⚙️ Operation Dashboard
+
+![Operation Dashboard](Dashboard-Screenshots/Operation%20Dashboard.png)
+
+---
+
+## 📦 Inventory Alert
+
+![Inventory Alert](Dashboard-Screenshots/Inventory%20Alert.png)
